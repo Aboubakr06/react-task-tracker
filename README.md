@@ -14,7 +14,7 @@ TASK TRACKER built with react using VITE
 ### Links
 
 - Live Site URL: (https://effervescent-twilight-c5698e.netlify.app/)
-- Tutorial Youtube URL : (https://youtu.be/w7ejDZ8SWv8?si=QnPydQxeMxCS94uI)
+- Youtube Tutorial URL : (https://youtu.be/w7ejDZ8SWv8?si=QnPydQxeMxCS94uI)
 
 ## My process
 
